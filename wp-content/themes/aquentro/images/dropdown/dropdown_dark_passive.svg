@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>dropdown_dark_passive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-82.000000, -426.000000)" fill="#9F9F9F">
+            <path d="M86.469,432.219 C86.615,432.365 86.792,432.438 87,432.438 C87.209,432.438 87.386,432.365 87.531,432.219 L91.781,427.969 C91.927,427.823 92,427.646 92,427.438 C92,427.229 91.927,427.052 91.781,426.907 L91.063,426.219 C90.917,426.073 90.74,426 90.531,426 C90.323,426 90.146,426.073 90,426.219 L87,429.219 L84,426.219 C83.854,426.073 83.677,426 83.469,426 C83.261,426 83.084,426.073 82.938,426.219 L82.219,426.907 C82.073,427.052 82,427.229 82,427.438 C82,427.646 82.073,427.823 82.219,427.969 L86.469,432.219 Z" id="dropdown_dark_passive"></path>
+        </g>
+    </g>
+</svg>

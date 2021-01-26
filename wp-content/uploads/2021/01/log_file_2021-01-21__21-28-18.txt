@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/jessescabin
+Data file = /Users/ivanlozada/Desktop/working-sites/sites/jessescabin/wp-content/themes/aquentro/assets/demo-data/aquentro.xml
+Widget file = /Users/ivanlozada/Desktop/working-sites/sites/jessescabin/wp-content/themes/aquentro/assets/demo-data/aquentro-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Text - Check availability - Imported
+Categories - Categories - Imported
+Text - About Aquentro - Imported
+Recent Posts - Recent News - Imported
+Recent Comments - Recent Comments - Imported
+Tag Cloud - Tags - Imported
+Gallery - Gallery - Imported
+Search - No Title - Widget already exists
+
+Footer : 
+
+Navigation Menu - No Title - Imported
+
+Front Page Top : 
+
+Text - Check Apartment Availability - Imported
+
+
+
+---pt-ocdi/after_import---
+
